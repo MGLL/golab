@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mgll/concurrency/runner"
+	"github.com/mgll/golab/concurrency/runner"
 	"log"
 	"math"
 	"os"

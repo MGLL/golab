@@ -1,3 +1,3 @@
-module github.com/mgll/concurrency/pong
+module github.com/mgll/golab/concurrency/pong
 
 go 1.22.1
